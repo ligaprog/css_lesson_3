@@ -1,0 +1,29 @@
+p, h2, h3 {
+    text-align: center;
+    color: #ffe6c0;
+}
+
+html {
+    background-color: #414040;
+    align-items: center;
+}
+
+img {
+    height: 35px;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    text-align: center;
+    background-color: #313031;
+    border: 2px solid black;
+}
+
+p {
+    background-color: #313031;
+    border: 2px solid black;
+}
